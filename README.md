@@ -1,7 +1,5 @@
 ## springboot+百度编辑器向七牛云存储上传图片资源<br>
 1. #### 文件导入<br>
-   * 新建springboot项目
-   * 不需要下载本项目，jar包已经上传到maven仓库
    * pom文件引入 
       ``` 
            <dependency>
@@ -39,4 +37,8 @@
       | 华南          | zone2         | 
       | 北美          | zoneNa0       | 
       | 东南亚        | zoneAs0       | 
+      
+3. #### exmpale
+    > 启动后台项目 spring-boot-starter-ueditor-for-qiniu-example
+    > 启动前端项目 spring-boot-starter-ueditor-for-qiniu-vue-exmpale
    

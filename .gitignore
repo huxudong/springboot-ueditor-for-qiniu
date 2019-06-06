@@ -28,5 +28,6 @@ target
 .idea
 *.iml
 
-node_modules
+node_modules/
+dist/
 
